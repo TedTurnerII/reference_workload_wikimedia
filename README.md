@@ -1,3 +1,6 @@
+#William George, Mariano Rodriguez, can you please grant me access to add projects under the ONUG Git?
+#submitting this as a pull request
+
 # reference_workload_wikimedia
 A baseline application to deploy for ONUG projects / proof of concepts
 
